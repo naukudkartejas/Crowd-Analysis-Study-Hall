@@ -13,8 +13,7 @@ ENV/
 *.ini
 *.cfg
 
-# Data files - keep CSVs out if sensitive or large
-data/*.csv
+
 
 # Power BI backup files or exports
 exports/
