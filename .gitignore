@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+venv/
+env/
+ENV/
+
+# MySQL credentials or config files (if any)
+*.env
+*.ini
+*.cfg
+
+# Data files - keep CSVs out if sensitive or large
+data/*.csv
+
+# Power BI backup files or exports
+exports/
+*.pbix.backup
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db

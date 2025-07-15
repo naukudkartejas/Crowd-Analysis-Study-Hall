@@ -1,0 +1,2 @@
+[2025-07-16 02:42:00.250256] Starting Power BI refresh.
+[2025-07-16 02:43:21.972017] Power BI refresh FAILED! Error: Command '['powershell.exe', '-ExecutionPolicy', 'Bypass', '-File', 'D:\\CROWD-ANALYSIS-Project\\scripts\\refresh_powerbi.ps1']' returned non-zero exit status 3221225786.
